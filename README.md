@@ -1,3 +1,6 @@
+# Case Study
+!["Screenshot of the home page"](https://github.com/MahdisMasoumi/CardTrading/blob/main/cardTrading.png)
+
 # CardTrading
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
